@@ -191,7 +191,7 @@ local Window = WindUI:CreateWindow({
     Folder = "坤坤大帝Hub_Ultimate",
     Size = UDim2.fromOffset(750, 500),
     Transparent = true,
-    Theme = "White",  -- 默认深色主题
+    Theme = "Light",  -- 默认深色主题
     User = { Enabled = true, Callback = function() print("用户信息") end, Anonymous = false },
 })
 
