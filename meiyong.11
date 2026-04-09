@@ -1,1 +1,10 @@
-
+{
+    "whitelist": ["yxgh165", "Setar_10086", "zjhsgj4", "tttt78787878787878"],
+    "menu": [
+        {"name": "通用", "desc": "衍哥中心 - 8.7版本", "url": "https://raw.githubusercontent.com/xehua-oos/XE-Huqq-ss-/refs/heads/main/8.7nnnzcn.lua"},
+        {"name": "暴力区", "desc": "V1.0", "url": "https://raw.githubusercontent.com/xehua-oos/XE-Huqq-ss-/refs/heads/main/obfuscated_script-1772355921998.lua(1).txt"},
+        {"name": "自然灾害模拟器", "desc": "V1.0", "url": "https://raw.githubusercontent.com/xehua-oos/XE-Huqq-ss-/refs/heads/main/zrzh777888.lua"},
+        {"name": "模仿者", "desc": "V1.0", "url": "https://raw.githubusercontent.com/xehua-oos/XE-Huqq-ss-/refs/heads/main/hfz999111v1.0.lua"},
+        {"name": "撕咬之夜", "desc": "V1.0", "url": "https://raw.githubusercontent.com/xehua-oos/XE-Huqq-ss-/refs/heads/main/syzyxiaozi.lua"}
+    ]
+}
